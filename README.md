@@ -1,0 +1,2 @@
+# centosnote
+centosnote
